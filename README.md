@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/470ca4a0ff7753410bbb97707bffc713302bb94568de4b532698c3618339fe9c/68747470733a2f2f676966696d6167652e6e65742f77702d636f6e74656e742f75706c6f6164732f323031372f31302f6d61747269782d636f64652d616e696d617465642d6769662d352e676966" alt="MasterHead" data-canonical-src="https://gifimage.net/wp-content/uploads/2017/10/matrix-code-animated-gif-5.gif" style="width: 1200px; height: 300px; display: inline-block;" data-target="animated-image.originalImage">
 <!-- ![MasterHead](https://gifimage.net/wp-content/uploads/2017/10/matrix-code-animated-gif-5.gif) -->
 <h1 align="center">Hi 👋, I'm kevin</h1>
-<h3 align="center">A passionate frontend developer from India. I am wiling to be a backend developer</h3>
+<h3 align="center">A passionate frontend developer from India. I am also wiling to be a backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🔭 I’m currently working as a **trainee at Tech Extensor**
